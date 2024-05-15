@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crisis-Connections/static/css/main.90252e3d.css",
+    "main.js": "/Crisis-Connections/static/js/main.05e1a1cf.js",
+    "static/js/488.09073028.chunk.js": "/Crisis-Connections/static/js/488.09073028.chunk.js",
+    "index.html": "/Crisis-Connections/index.html",
+    "main.90252e3d.css.map": "/Crisis-Connections/static/css/main.90252e3d.css.map",
+    "main.05e1a1cf.js.map": "/Crisis-Connections/static/js/main.05e1a1cf.js.map",
+    "488.09073028.chunk.js.map": "/Crisis-Connections/static/js/488.09073028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90252e3d.css",
+    "static/js/main.05e1a1cf.js"
+  ]
+}
